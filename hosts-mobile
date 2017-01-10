@@ -1,6 +1,53 @@
-# Go Hosts
-# 2017-01-09 22:51:53
+#phone
 
+#bing search 
+219.76.4.3 bing.com
+219.76.4.3 www.bing.com
+#bing search end
+
+#freedom of speech websites
+23.235.33.230 pao-pao.net
+23.235.33.230 www.pao-pao.net
+104.20.73.131 greatfire.org
+104.20.73.131 www.greatfire.org
+104.20.73.131 zh.greatfire.org
+104.20.74.131 cc.greatfire.org
+104.20.134.37 freebrowser.org
+104.20.134.37 www.freebrowser.org
+104.25.239.102 freewechat.com
+104.25.239.102 www.freewechat.com
+#freedom of speech end
+
+# Armorgames Start
+93.184.220.39	cache.armorgames.com
+93.184.220.39	gamemedia.armorgames.com
+93.184.220.39	quests.armorgames.com
+93.184.220.39	armatars.armorgames.com
+93.184.220.39	agi.armorgames.com
+# Armorgames End
+
+#PsiPhon start
+219.76.4.11 www.psiphon.ca
+219.76.4.14 psiphon.ca
+219.76.4.11 www.psiphon3.net
+219.76.4.11 psiphon3.net
+219.76.4.11 psiphon.com
+219.76.4.14 www.psiphon.com
+#Psiphon end
+
+#VPS Hosted start
+104.16.110.208 digitalocean.com
+104.16.24.4 cloud.digitalocean.com
+104.16.24.4 www.digitalocean.com
+104.20.22.240 www.vultr.com
+108.61.13.174 vultr.com
+104.20.7.63 bandwagonhost.com
+104.20.6.63 www.bandwagonhost.com
+103.3.190.46 conoha.jp
+157.7.225.120 manage.conoha.jp
+103.3.190.46 www.conoha.jp
+219.76.4.14 cloud-cdn-digitalocean-com.global.ssl.fastly.net
+#VPS Hosted end
 
 127.0.0.1	localhost
 ::1	localhost ip6-localhost ip6-loopback
