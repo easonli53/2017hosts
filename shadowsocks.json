@@ -1,0 +1,21 @@
+{
+    "server":"0.0.0.0",
+    "server_ipv6": "[::]",
+    "local_address":"127.0.0.1",
+    "local_port":1080,
+    "port_password":{
+          "8001":{"method":"chacha20","protocol":"auth_aes128_md5", "password":"user1", "obfs":"random_head", "obfs_param":""},
+          "8002":{"method":"chacha20","protocol":"auth_aes128_md5", "password":"user2", "obfs":"random_head", "obfs_param":""},
+          "8003":{"method":"chacha20","protocol":"auth_aes128_md5", "password":"user3", "obfs":"random_head", "obfs_param":""}
+},
+    "timeout":600,
+    "method":"aes-256-cfb",
+  "protocol": "auth_sha1_v2_compatible",
+    "protocol_param": "",
+    "obfs": "http_post_compatible",
+    "obfs_param": "",
+    "redirect": "www.cloudflare.com:443",
+    "dns_ipv6": false,
+    "fast_open": false,
+    "workers": 1
+}
