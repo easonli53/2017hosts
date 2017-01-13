@@ -1,8 +1,15 @@
 #mobile hosts (useing google and facebook and other websites dedicated IPS)
 #NO using on PC
 
-
-
+#other blogger
+219.76.4.14 breakwa11.blogspot.com
+219.76.4.14 breakwa11.blogspot.hk
+219.76.4.14 android-developers.googleblog.com
+219.76.4.14 qingyunchunming.blogspot.com
+219.76.4.14 qingyunchunming.blogspot.hk
+219.76.4.14 admob.googleblog.com
+219.76.4.14 admob.googleblog.hk
+#other blogger end
 
 
 #bing search 
@@ -678,6 +685,9 @@
 61.91.161.217	feedproxy.google.com
 61.91.161.217	go.googlesource.com
 61.91.161.217	golang.org
+61.91.161.217 youtube.sg
+61.91.161.217 youtube.hk
+61.91.161.217 youtube.uk
 61.91.161.217	www.golang.org
 61.91.161.217	blog.golang.org
 61.91.161.217	play.golang.org
@@ -2117,6 +2127,7 @@
 61.91.161.217	google.bf
 61.91.161.217	google.bg
 61.91.161.217	google.bi
+61.91.161.217 google.sg
 61.91.161.217	google.bj
 61.91.161.217	google.bs
 61.91.161.217	google.bt
