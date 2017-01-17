@@ -4,6 +4,7 @@
     "local_address":"127.0.0.1",
     "local_port":1080,
     "port_password":{
+        
           "8001":{"method":"chacha20","protocol":"auth_aes128_md5", "password":"user1", "obfs":"random_head", "obfs_param":""},
           "8002":{"method":"chacha20","protocol":"auth_aes128_md5", "password":"user2", "obfs":"random_head", "obfs_param":""},
           "8003":{"method":"chacha20","protocol":"auth_aes128_md5", "password":"user3", "obfs":"random_head", "obfs_param":""}
