@@ -7,4 +7,6 @@
 ####提示：如果突然连着连着ip就不通了有70%的可能是被运营商反向封了访问权限，只需要重新拨号或者重启手机即可解决，如果无法解决就是ip失效.<br />
 ###youtube测试截图：
 <img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/QQ%E6%88%AA%E5%9B%BE20170121230113.png"></a>
+###tumblr测试截图：
+<img src="https://raw.githubusercontent.com/wangchunming/2017hosts/master/QQ%E6%88%AA%E5%9B%BE20170121230507.png"></a>
 ####提示：所有在hosts内的属于代理类的ip均支持翻墙之后代理http，具体用途大家懂~
