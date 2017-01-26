@@ -5,7 +5,7 @@
 ###您使用后可使用的服务：
 ###google youtube wikipedia twitter facebook freeweibo freewechat dropbox duckduckgo amazonaws archive disqus onedrive bing(hk) .....
 ### 2017HOSTS       提示，在首页选择clone or download获取链接 可将所有文件打包成压缩包下载！
-这里更新最新可用的googlehosts，这里更新的分为手机版和电脑版。使用本hosts更新源提供的hosts可以获得完美的youtube视频（如果因为重定向超时加载不出来的话刷新一下网页就好了，最新的hosts目前中国大陆多地区实测刷新率降到1%以下）和其他服务的较完美体验（已经在所有hosts里添加google云端硬盘视频预览域名，电脑版本google+的网页大图预览问题也已经解决，播放视频或许还不完美），请在杀毒软件内添加hosts信任！如果你要想添加什么网址你可以开启一个lssues并清晰地表明你的意愿。本hosts不保证随时可用，但是我会尽我最大努力让它高可用。<br />
+这里更新最新可用的googlehosts，这里更新的分为手机版和电脑版。使用本hosts更新源提供的hosts可以获得完美的youtube视频（如果因为重定向超时加载不出来的话刷新一下网页就好了，最新的hosts目前中国大陆多地区实测刷新率降到1%以下，重定向是可以自行重定向的，相关服务器域名也是其他人的hosts里几乎没有的）和其他服务的较完美体验（已经在所有hosts里添加google云端硬盘视频预览域名，电脑版本google+的网页大图预览问题也已经解决，播放视频或许还不完美），请在杀毒软件内添加hosts信任！如果你要想添加什么网址你可以开启一个lssues并清晰地表明你的意愿。本hosts不保证随时可用，但是我会尽我最大努力让它高可用。<br />
 注意: Google 等网站请通过 https 方式访问，如 https://www.google.com/ncr 或者 https://www.google.com.hk 避免因响应http请求时的重置连接。这几版的hosts会一直更新，敬请大家留意关注。<br />提示：请各位网络喷子，网评员，水军等人自觉绕道，左拐不送！<br />
 ####提示：如果突然连着连着ip就不通了有70%的可能是被运营商反向封了访问权限，只需要重新拨号或者重启手机即可解决，如果无法解决就是ip失效.<br />
 ###youtube测试截图：
